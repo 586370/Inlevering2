@@ -14,7 +14,7 @@ public class O1 {
 		*/
 		
 		
-		/* Oppgave b) IKKE FERDIG !!!!!!!!!!!!!!!!!
+		/* Oppgave b) IF
 		 String utskrift = "";
 		 
 		int [] tab1 = {42, 67, 89};
@@ -25,7 +25,7 @@ public class O1 {
 		}
 		*/
 		
-		/* Oppgave c) 1 KAN FORBEDRES!!!!!!!!!!!
+		/* Oppgave c) 1 KF
 		 int [] tab2 = {1, 5, 10};
 		 
 		int sum = 0;
@@ -36,7 +36,7 @@ public class O1 {
 		*/
 		
 		
-		/* Oppgave c) 2 IKKE FERDIG!!!!!!!!!1
+		/* Oppgave c) 2 IF
 		int [] tab3 = {1, 5, 10};
 		int sum = 0;
 		int i = 0;
@@ -44,12 +44,12 @@ public class O1 {
 	*/
 		
 		
-		/* Oppgave c) 3 IKKE GJORT!!!
+		/* Oppgave c) 3 IG
 		 
 		 */
 		
 		
-		/* Oppgave d) FEIL!!!!!!!!!
+		/* Oppgave d) F
 		static int[] tab5 = {29, 18, 102, 4, 2};
 		
 		static int[] tall123 = {29};
@@ -90,13 +90,13 @@ public class O1 {
 	*/
 	
 		
-	/*  Oppgave e) IKKE GJORT!!!!!!!!!
+	/*  Oppgave e) IG
 		int [] tab6 = {1, 5, 10};
 		int tall = 17;
 		*/
 		
 		
-		/* Oppgave f) Ferdig!!!!!!!
+		/* Oppgave f) 
 		int [] tab7 = {1, 5, 10, 7, 3};
 		for (int i = tab7.length - 1; i>-1; i--) {
 			int v = tab7[i];
@@ -105,12 +105,12 @@ public class O1 {
 		*/
 		
 		
-		/* Oppgave g) IKKE GJORT!!!!!!!
+		/* Oppgave g) IG
 		int [] tab8 = {1, 5, 10, 7, 3};
 		*/
 		
 		
-		/* Oppgave h) IKKE GJORT!!!!!!!!!!
+		/* Oppgave h) IG
 		int [] tab9 = {1, 3, 5, 7, 9};
 		int [] tab10 = {2, 4, 6, 8, 10};
 		*/
